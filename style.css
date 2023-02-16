@@ -1,9 +1,4 @@
-body{
-	background: #fff;
-}
-.cart{ 
-	background-color: #F6F5FA;; 
-}
+
 .total-price{
 	padding-bottom: 15px;
 }
@@ -26,6 +21,7 @@ body{
 }
 .cart-item .remove-item{
 	width: 25px!important;
+	display: none;
 }
 .btn-default{
 	background-color: #fff;
