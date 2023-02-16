@@ -34,4 +34,3 @@ function phoneGetNumber(phoneNewFieldNum){
     const newPriceElement = document.getElementById('phone-total'); 
     newPriceElement.innerText = phoneNewPriceNum;
 }
-
